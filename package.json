@@ -1,0 +1,19 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "react-tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uddeshya-1901/React-tutorial.git"
+  },
+  "author": "Uddeshya Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Uddeshya-1901/React-tutorial/issues"
+  },
+  "homepage": "https://github.com/Uddeshya-1901/React-tutorial#readme"
+}
